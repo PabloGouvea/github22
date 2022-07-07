@@ -1,3 +1,3 @@
 # github22
-meu primeiro github
-readme de exemplo
+Estudante de desenvolvimento front-end, apaixonado por design!
+
